@@ -26,12 +26,12 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="OpenCV" width="26px" src="https://avatars1.githubusercontent.com/u/5009934?s=200&v=4" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Keras" width="26px" src="https://avatars2.githubusercontent.com/u/34455048?s=200&v=4" />
 <img align="left" alt="scikit-learn" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
 <img align="left" alt="Google Cloud Platform" width="26px" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4" />
 <img align="left" alt="ROS2" width="26px" src="https://avatars1.githubusercontent.com/u/3979232?s=200&v=4" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br />
 <br />
@@ -54,7 +54,10 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Jaan1729's Github Stats" src="https://github-readme-stats.jaan1729.vercel.app/api?username=jaan1729&show_icons=true&hide_border=true" />
+![Krishna's github stats](https://github-readme-stats.vercel.app/api?username=jaan1729&show_icons=true&theme=radical&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaan1729&layout=compact&theme=radical)](https://github.com/jaan1729/github-readme-stats)
+
+
 
 </details>
 
