@@ -3,11 +3,11 @@
 ![Visitors](https://komarev.com/ghpvc/?username=jaan1729&color=orange)
 
 
-#### I'm a Machine Learning Enthusiast 🚀 from India. 🔭 I am looking for oppertunities in Artificial Intelligence.
+#### I'm a Machine Learning Enthusiast 🚀 from India. 🔭 I am looking for oppertunities in Autonomous Driving.
 
 - 🔭 I’m currently working on a Kaggle competition [Lyft Motion Prediction for Autonomous Vehicles](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles/overview)
 - 🌱 I’m currently learning Advanced Techniques in Deep Learning 
-- 👯 I’m looking to collaborate with more projects related to Autonomous Driving
+- 👯 I’m looking to collaborate with more projects related to Artificial Intelligence
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 
