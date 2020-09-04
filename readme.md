@@ -1,11 +1,11 @@
-### Hi there, I'm Krishna - aka [jaan1729][website] 👋
+### Hi there, I'm Krishna - aka jaan1729 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+![Visitors](https://komarev.com/ghpvc/?username=jaan1729&color=orange)
+
 
 ## I'm a Machine Learning Enthusiast 🚀 from India. 🔭 I am looking for oppertunities in Artificial Intelligence.
 
-- 🔭 I’m currently working on a Kaggle competition[Lyft Motion Prediction for Autonomous Vehicles](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles/overview)
+- 🔭 I’m currently working on a Kaggle competition [Lyft Motion Prediction for Autonomous Vehicles](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles/overview)
 - 🌱 I’m currently learning Advanced Techniques in Deep Learning 
 - 👯 I’m looking to collaborate with more projects related to Autonomous Driving
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -22,17 +22,16 @@
 ### Languages and Tools:
 
 
-[<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />]
-[<img align="left" alt="Keras" width="26px" src="https://avatars2.githubusercontent.com/u/34455048?s=200&v=4" />]
-[<img align="left" alt="ROS2" width="26px" src="https://avatars1.githubusercontent.com/u/3979232?s=200&v=4" />]
-[<img align="left" alt="OpenCV" width="26px" src="https://avatars1.githubusercontent.com/u/5009934?s=200&v=4" />]
-[<img align="left" alt="scikit-learn" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />]
-[<img align="left" alt="Google Cloud Platform" width="26px" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4" />]
-
+<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+<img align="left" alt="OpenCV" width="26px" src="https://avatars1.githubusercontent.com/u/5009934?s=200&v=4" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Keras" width="26px" src="https://avatars2.githubusercontent.com/u/34455048?s=200&v=4" />
+<img align="left" alt="scikit-learn" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
+<img align="left" alt="Google Cloud Platform" width="26px" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4" />
+<img align="left" alt="ROS2" width="26px" src="https://avatars1.githubusercontent.com/u/3979232?s=200&v=4" />
 
 <br />
 <br />
