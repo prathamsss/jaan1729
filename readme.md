@@ -3,7 +3,7 @@
 ![Visitors](https://komarev.com/ghpvc/?username=jaan1729&color=orange)
 
 
-#### I'm a Machine Learning Enthusiast 🚀 from India. 🔭 I am looking for oppertunities in Autonomous Driving.
+#### I'm a Computer Vision Engineer at ICAV Tech - Conigital Group. 🔭 I am working to improve perception ability of Autonomous Vehicles.
 
 - 🔭 I’m currently working on a Kaggle competition [Lyft Motion Prediction for Autonomous Vehicles](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles/overview)
 - 🌱 I’m currently learning Advanced Techniques in Deep Learning 
