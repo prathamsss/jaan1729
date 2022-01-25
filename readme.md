@@ -5,7 +5,7 @@
 
 #### I'm a Computer Vision Engineer at ICAV Tech - Conigital Group. 🔭 I am working to improve perception ability of Autonomous Vehicles.
 
-- 🔭 I’m also working on a project to convert monocular images into stereo images for automatically converting media for 3D experience. 
+- 🔭 I’m also working on a project to convert monocular images into stereo images to automatically convert media for the 3D experience. 
 - 🌱 I’m currently learning Advanced Techniques in Deep Learning 
 - 👯 I’m looking to collaborate with more projects related to Artificial Intelligence
 
