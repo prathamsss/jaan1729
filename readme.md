@@ -5,10 +5,9 @@
 
 #### I'm a Computer Vision Engineer at ICAV Tech - Conigital Group. 🔭 I am working to improve perception ability of Autonomous Vehicles.
 
-- 🔭 I’m currently working on a Kaggle competition [Lyft Motion Prediction for Autonomous Vehicles](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles/overview)
+- 🔭 I’m also working on a project to convert monocular images into stereo images for automatically converting media for 3D experience. 
 - 🌱 I’m currently learning Advanced Techniques in Deep Learning 
 - 👯 I’m looking to collaborate with more projects related to Artificial Intelligence
-- 🥅 2020 Goals: Contribute more to Open Source projects
 
 
 ### Connect with me:
